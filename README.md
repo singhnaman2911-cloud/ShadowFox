@@ -6,49 +6,48 @@ This repository contains all tasks completed during the Database Management Inte
 ## ✅ Completed Tasks
 
 ### Beginner Level ✔️
-- **Task 1-2:** Database & Table Creation with Primary/Foreign Key Constraints
-- **Task 3:** Created High_Paid_Employees table using CTAS method
-- **Task 4:** DELETE operation on employee records
-- **Task 5:** UPDATE operation to modify employee data
-- **Task 6:** ALTER TABLE to remove JoinDate column
+- **Task 1:** Created Database "SwhadoFox" with proper constraints
+- **Task 2:** Arranged employees by Age in Descending order
+- **Task 3:** Created High_Paid_Employees table using CTAS method (Salary > 60000)
+- **Task 4:** DELETE operation - Removed employee with EmpID 103
+- **Task 5:** UPDATE operation - Changed Alice Smith to Andrea Jackson
+- **Task 6:** ALTER TABLE - Dropped JoinDate column from Employees table
 
 **Files:**
-- `Beginner_Level_Tasks.sql` - Tasks 1 & 2
-- `Beginner_Remaining_Tasks.sql` - Tasks 3, 4, 5 & 6
-- Screenshots of outputs included
+- `Beginner_Level_Tasks.sql` - Tasks 1 & 2 (Database & Table Creation)
+- `Beginner_Remaining_Tasks.sql` - Tasks 3, 4, 5 & 6 (Operations)
+- `Task-1-2_Database_Creation_Output.png` - Screenshot of Tasks 1-2
+- `Task-3-6_Operations_Output.png` - Screenshot of Tasks 3-6
 
 ### Intermediate Level 🔄
-- Coming Soon: ERD Diagram & Relational Database Design
+- Coming Soon: ERD Diagram
+- Coming Soon: Relational Database Design & Modeling
 
 ### Advanced Level 🔄
-- Coming Soon: BAG System Implementation
+- Coming Soon: BAG System Implementation with Python
 
 ## 🛠️ Technologies Used
 - SQL Server
 - Database Design & Modeling
-- DDL & DML Operations
+- DDL Operations (CREATE, ALTER, DROP)
+- DML Operations (INSERT, UPDATE, DELETE, SELECT)
+- Primary & Foreign Key Constraints
 
-## 📧 Contact
-**Naman Singh**
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [@singhnaman2911-cloud](https://github.com/singhnaman2911-cloud)
-
----
-*Internship Duration: 2026*
-```
-
-4. Scroll down aur **"Commit changes"** pe click karo
-
----
-
-## 🎯 Ab kya karna hai:
-
-### **Option 1:** Folder Structure banao (Professional approach)
+## 📂 Repository Structure
 ```
 ShadowFox/
 ├── README.md
-├── Beginner-Level/
-│   ├── Task-1-2/
-│   └── Task-3-6/
-├── Intermediate-Level/
-└── Advanced-Level/
+├── Beginner_Level_Tasks.sql
+├── Beginner_Remaining_Tasks.sql
+├── Task-1-2_Database_Creation_Output.png
+└── Task-3-6_Operations_Output.png
+```
+
+## 📧 Contact
+**Naman Singh**
+- GitHub: [@singhnaman2911-cloud](https://github.com/singhnaman2911-cloud)
+- LinkedIn: [LinkedIn: linkedin.com/in/naman-singh-2911ns]
+
+---
+**Internship Duration:** February 2026  
+**Organization:** ShadowFox
