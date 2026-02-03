@@ -46,7 +46,6 @@ ShadowFox/
 ## 📧 Contact
 **Naman Singh**
 - GitHub: [@singhnaman2911-cloud](https://github.com/singhnaman2911-cloud)
-- LinkedIn: [linkedin.com/in/naman-singh-2911ns]
 
 ---
 **Internship Duration:** February 2026  
